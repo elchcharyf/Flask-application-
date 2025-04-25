@@ -3,5 +3,4 @@ render_template
 request
 pickle
 numpy
-mysql.connector
 datetime
